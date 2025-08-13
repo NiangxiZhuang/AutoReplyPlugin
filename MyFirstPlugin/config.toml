@@ -1,0 +1,5 @@
+[basic]
+# 是否启用插件
+enable = true
+# 触发词
+trigger_word = "你好"
